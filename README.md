@@ -1,0 +1,1 @@
+This is a fork of ioquake3 with the purpose of porting Heavy Metal FAKK 2 to ioquake3. This fork will temporarily/permanently renamed to iofakk2 to distinguish between the mainline ioq3 repo and this one. At this time, no changes have been made for this fork and will work with Quake 3 Arena as normal.
